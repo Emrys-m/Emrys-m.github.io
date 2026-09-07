@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 
-ASomething about myself
+Something about myself
 ======
-1. 兴趣爱好
+1. **兴趣爱好**：睡觉、打游戏、看书、听音乐。一个普普通通的两脚兽
+2. **专业知识和能力**:c/c++,数据结构,没有再值得一提的了。
+3. **感兴趣的方向**:用AI解决各种各样的问题
 
 Getting started
 ======
